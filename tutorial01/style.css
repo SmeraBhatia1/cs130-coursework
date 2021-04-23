@@ -1,0 +1,30 @@
+body {
+    font-family: Times, Georgia, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+
+.navbar {
+    padding: 20px;
+    background-color: #ffc3a0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar a, .navbar strong {
+    margin-right: 15px;
+}
+
+.photo-section {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+.photo-section img {
+    width: 36%;
+    margin-right: 2%;
+}
+
+main {
+    padding-right: 10vw;
+    padding-left: 8vw;
+}
