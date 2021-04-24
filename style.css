@@ -5,7 +5,8 @@
 
 body {
     margin: 0px;
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto Slab';
+    background-color: #E7CFCD;
 }
 header, section {
     padding: 20px;
@@ -15,7 +16,7 @@ p, li {
 }
 
 #inspiration {
-    background-color: #F0F0F0;
+    background-color: #B5C9C3;
     padding-top: 40px;
     padding-bottom: 40px;
 }
