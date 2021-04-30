@@ -1,21 +1,31 @@
 /* You're welcome to change any of this! */
+
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
 * {
     box-sizing: border-box;
 }
 
 body {
     margin: 0px;
-    font-family: 'Roboto Slab';
+    font-family: 'Shadows Into Light', cursive;
     background-color: #E7CFCD;
 }
+
 header, section {
     padding: 20px;
+    font-family: 'Shadows Into Light', cursive;
 }
 p, li {
     line-height: 1.5em;
 }
 
-#inspiration {
+.tutorials {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inspiration {
     background-color: #B5C9C3;
     padding-top: 40px;
     padding-bottom: 40px;

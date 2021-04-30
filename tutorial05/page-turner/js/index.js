@@ -29,17 +29,17 @@ nec, per et autem viris, sit in luptatum platonem. Sea diam reprimique ad,
 aliquip meliore constituto has et.</p>`;
 
 const chapter1 = () => {
-   alert('load chapter 1');
+   // alert('load chapter 1');
    document.querySelector(".content").innerHTML = ch1_text;
 
 };
 
 const chapter2 = () => {
-   alert('load chapter 2');
+   // alert('load chapter 2');
    document.querySelector(".content").innerHTML = ch2_text;};
 
 const chapter3 = () => {
-   alert('load chapter 3');
+   // alert('load chapter 3');
    document.querySelector(".content").innerHTML = ch3_text;
 };
 
